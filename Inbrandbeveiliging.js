@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=meldkamerspel.com
 // @grant        none
 // @run-at       document-end
-// @downloadURL  https://github.com/TheDutchLegacy/Scripts-MKS/raw/Dev/mks-scripts/Inbrandbeveiliging.js
-// @updateURL    https://github.com/TheDutchLegacy/Scripts-MKS/raw/Dev/mks-scripts/Inbrandbeveiliging.js
+// @downloadURL  https://github.com/TheDutchLegacy/mks-scripts/raw/refs/heads/main/Inbrandbeveiliging.js
+// @updateURL    https://github.com/TheDutchLegacy/mks-scripts/raw/refs/heads/main/Inbrandbeveiliging.js
 // ==/UserScript==
 
 /* =====================================================================
